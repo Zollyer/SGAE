@@ -8,4 +8,4 @@ y tiene diferentes funciones que pueden ser agregadas o eliminadas ya que funcio
 independientes
 
 Info: 
-dentro del repositorio SGAE PRO se encuentra el servidor processing que este software utiliza para ser utilizado.
+dentro del repositorio SGAE PRO se encuentra el servidor processing que este software utiliza
